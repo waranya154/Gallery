@@ -17,3 +17,15 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    -  assets/images/aummm3.jpg
+    -  assets/images/aummm4.jpg
+    -  assets/images/aummm5.jpg
+    -  assets/images/aummm7.jpg
+    -  assets/images/aummm12.jpg
+    -  assets/images/aummm13.jpg
+    -  assets/images/aummm14.jpg
+    -  assets/images/aummm16.jpg
+    -  assets/images/aummm2.jpg
+    -  assets/images/tt1.jpg
+
